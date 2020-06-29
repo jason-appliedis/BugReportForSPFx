@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "test-firefox",
+    "libraryId": "0a5ddfb1-5985-48f0-8150-0bd80087c4db",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
